@@ -1,0 +1,13 @@
+name: Flights_App
+title: Flights_App
+username:
+account: venturemuia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4868979
+bundleId: 5137746
+url: https://venturemuia.shinyapps.io/Flights_App/
+when: 1634201802.0539
+lastSyncTime: 1634201802.0539
+asMultiple: FALSE
+asStatic: FALSE
